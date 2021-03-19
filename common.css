@@ -1,0 +1,10 @@
+.main {
+  margin: 20px;
+  padding: 30px;
+  background-color: Khaki;
+  border-radius: 1%;
+}
+
+body {
+  background-image: url("./img/backgroun.jpg");
+}

@@ -1,0 +1,76 @@
+.avatar {
+  height: 200px;
+  width: 350px;
+  display: flex;
+}
+.glav {
+  color: black;
+}
+.tekst {
+  font-size: 150%;
+  color: black;
+}
+.math {
+  font-size: 200%;
+  display: flex;
+}
+.rusimg {
+  position: relative;
+  top: -5px;
+  left: 30px;
+}
+
+a:visited {
+  color: black;
+
+  text-decoration: none;
+}
+
+a:hover {
+  color: #e61313;
+
+  text-decoration: underline;
+}
+
+.mathtekst {
+  color: rgb(8, 3, 3);
+}
+main {
+  padding: 10;
+  margin: 23px;
+  background-color: DarkKhaki;
+  padding: 30px;
+  border-radius: 1%;
+  opacity: 0.7;
+  display: flex;
+}
+.predmet {
+  width: 25%;
+}
+.predmet__img {
+  display: block;
+}
+.predmet__link {
+  display: block;
+}
+.start {
+  margin: 13px;
+  padding: 30px;
+  background-color: Khaki;
+  opacity: 0.7;
+  border-radius: 1%;
+}
+header {
+  margin: 10px;
+  background-color: DarkKhaki;
+  padding: 30px;
+  border-radius: 1%;
+  opacity: 0.7;
+}
+.avatar {
+  padding: 25px;
+  border-radius: 50px;
+  margin: 1px;
+}
+.lessons-list {
+}
