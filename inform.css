@@ -1,0 +1,16 @@
+.lessons-list {
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-around;
+    justify-content: space-between;
+  
+  }
+  
+  .lesson {
+    width: min-content;
+    display: flex;
+    flex-direction: column;
+    justify-content: flex-end;
+  }
+  
+  

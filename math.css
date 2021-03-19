@@ -1,18 +1,15 @@
-a1 {
+.lessons-list {
   display: flex;
+  flex-wrap: wrap;
+  justify-content: space-around;
+  justify-content: space-between;
+
 }
-a2 {
+
+.lesson {
+  width: min-content;
   display: flex;
+  flex-direction: column;
+  justify-content: flex-end;
 }
-a3 {
-  display: flex;
-}
-a4 {
-  display: flex;
-}
-a5 {
-  display: flex;
-}
-a6 {
-  display: flex;
-}
+
