@@ -1,9 +1,19 @@
+.main {
+  margin: 20px;
+  padding: 30px;
+  background-color: Khaki;
+  border-radius: 1%;
+}
+
+body {
+  background-image: url("../img/backgroun.jpg");
+}
+
 .lessons-list {
   display: flex;
   flex-wrap: wrap;
   justify-content: space-around;
   justify-content: space-between;
-
 }
 
 .lesson {
@@ -12,4 +22,3 @@
   flex-direction: column;
   justify-content: flex-end;
 }
-
